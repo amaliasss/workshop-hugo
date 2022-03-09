@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://amaliasss.github.io/workshop-hugo/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
